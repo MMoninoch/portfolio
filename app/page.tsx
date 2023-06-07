@@ -7,6 +7,9 @@ export default function Home() {
   return (
     <div>
       <Navbar />
+      <div className='sm:hidden'>
+      <br /><br /><br />
+      </div>
       <Main />
       <About />
       <Skills />
