@@ -7,7 +7,7 @@ const Main = () => {
   return (
     <div className="w-full h-screen text-center">
       <div className="max-2-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
-        <div>
+        <div className="mt-5">
           <p className="uppercase text-sm tracking-widest text-gray-600">
             Let's build something together
           </p>
