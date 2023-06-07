@@ -30,9 +30,9 @@ const About = () => {
         </div>
         <div className="w-full h-auto m-auto flex items-center justify-center p-4">
           <Image 
-          src='/../public/assets/man.png'
-          width={300}
-          height={300}
+          src='/../public/assets/cat.png'
+          width={600}
+          height={600}
           alt="Man" 
           />
         </div>
