@@ -1,5 +1,6 @@
 import React from "react";
-import Image from 'next/image'
+import Image from 'next/image';
+import Man from '../public/man.png';
 
 const About = () => {
   return (
@@ -30,9 +31,9 @@ const About = () => {
         </div>
         <div className="w-full h-auto m-auto flex items-center justify-center p-4">
           <Image 
-          src='/../public/man.png'
-          width={300}
-          height={300}
+          src={Man}
+          width={250}
+          height={250}
           alt="Man" 
           />
         </div>
