@@ -34,7 +34,7 @@ const About = () => {
           src={Man}
           width={250}
           height={250}
-          alt="man" 
+          alt="Man" 
           />
         </div>
       </div>
