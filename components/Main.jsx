@@ -16,11 +16,7 @@ const Main = () => {
           </h1>
           <h1 className="py-4 text-gray-700">A Front-End Developer</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I am a front-end developer specializing in building exceptional
-            digital experiences, and I also have experience in designing.
-            Currently, my main focus is on developing responsive front-end web
-            applications, while simultaneously expanding my knowledge of
-            back-end technologies.
+          Front-end developer and specialize in creating exceptional digital experiences. In addition to my development skills, I also have experience in designing. At the moment, I am primarily focused on developing responsive front-end web applications while simultaneously expanding my knowledge of back-end technologies.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
                 <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-150">
